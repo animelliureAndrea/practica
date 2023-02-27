@@ -10,7 +10,7 @@ public class AndreaCanoDiamondPainting {
 		this.guia=guia;
 		this.diamantes=diamantes;
 		this.nombre=nombre;
-		this.boli=boli;
+		this.boli=boli;//
 	}
 	public String getGuia() {
 		return guia;
@@ -25,7 +25,7 @@ public class AndreaCanoDiamondPainting {
 	return boli;
 	} 
 	public void setGuia(String guia) {
-		this.guia=guia;
+		this.guia=guia;//
 	}
 	public void setDiamantes(int diamantes) {
 		this.diamantes=diamantes;
