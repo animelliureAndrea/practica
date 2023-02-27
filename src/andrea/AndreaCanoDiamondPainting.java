@@ -32,7 +32,7 @@ public class AndreaCanoDiamondPainting {
 	}
 	public void setNombre(String nombre) {
 		this.nombre=nombre;
-	}
+	}//
 	public void setBoli(int boli) {
 		this.boli=boli;//
 	}
