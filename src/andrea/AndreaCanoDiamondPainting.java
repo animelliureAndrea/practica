@@ -34,6 +34,6 @@ public class AndreaCanoDiamondPainting {
 		this.nombre=nombre;
 	}
 	public void setBoli(int boli) {
-		this.boli=boli;
+		this.boli=boli;//
 	}
 }
