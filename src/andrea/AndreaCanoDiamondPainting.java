@@ -14,7 +14,7 @@ public class AndreaCanoDiamondPainting {
 	}
 	public String getGuia() {
 		return guia;
-	} 
+	} //
 	public int getDiamantes() {
 		return diamantes;
 	} 
